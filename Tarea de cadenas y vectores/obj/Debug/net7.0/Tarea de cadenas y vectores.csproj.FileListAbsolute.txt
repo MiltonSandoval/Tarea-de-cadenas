@@ -1,0 +1,15 @@
+C:\c# Progra2\Tarea de cadenas y vectores\bin\Debug\net7.0\Tarea de cadenas y vectores.exe
+C:\c# Progra2\Tarea de cadenas y vectores\bin\Debug\net7.0\Tarea de cadenas y vectores.deps.json
+C:\c# Progra2\Tarea de cadenas y vectores\bin\Debug\net7.0\Tarea de cadenas y vectores.runtimeconfig.json
+C:\c# Progra2\Tarea de cadenas y vectores\bin\Debug\net7.0\Tarea de cadenas y vectores.dll
+C:\c# Progra2\Tarea de cadenas y vectores\bin\Debug\net7.0\Tarea de cadenas y vectores.pdb
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.csproj.AssemblyReference.cache
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.AssemblyInfoInputs.cache
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.AssemblyInfo.cs
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.csproj.CoreCompileInputs.cache
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.dll
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\refint\Tarea de cadenas y vectores.dll
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.pdb
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\Tarea de cadenas y vectores.genruntimeconfig.cache
+C:\c# Progra2\Tarea de cadenas y vectores\obj\Debug\net7.0\ref\Tarea de cadenas y vectores.dll

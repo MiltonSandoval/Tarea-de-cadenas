@@ -1,0 +1,14 @@
+C:\C#\Cadenas y vectores\Ejercicio15\bin\Debug\net7.0\Ejercicio15.exe
+C:\C#\Cadenas y vectores\Ejercicio15\bin\Debug\net7.0\Ejercicio15.deps.json
+C:\C#\Cadenas y vectores\Ejercicio15\bin\Debug\net7.0\Ejercicio15.runtimeconfig.json
+C:\C#\Cadenas y vectores\Ejercicio15\bin\Debug\net7.0\Ejercicio15.dll
+C:\C#\Cadenas y vectores\Ejercicio15\bin\Debug\net7.0\Ejercicio15.pdb
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\Ejercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\Ejercicio15.AssemblyInfoInputs.cache
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\Ejercicio15.AssemblyInfo.cs
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\Ejercicio15.csproj.CoreCompileInputs.cache
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\Ejercicio15.dll
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\refint\Ejercicio15.dll
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\Ejercicio15.pdb
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\Ejercicio15.genruntimeconfig.cache
+C:\C#\Cadenas y vectores\Ejercicio15\obj\Debug\net7.0\ref\Ejercicio15.dll

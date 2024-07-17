@@ -1,0 +1,15 @@
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\bin\Debug\net7.0\Ejercicio1.exe
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\bin\Debug\net7.0\Ejercicio1.deps.json
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\bin\Debug\net7.0\Ejercicio1.runtimeconfig.json
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\bin\Debug\net7.0\Ejercicio1.dll
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\bin\Debug\net7.0\Ejercicio1.pdb
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.csproj.AssemblyReference.cache
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.AssemblyInfo.cs
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.dll
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\refint\Ejercicio1.dll
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.pdb
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\Ejercicio1.genruntimeconfig.cache
+C:\c# Progra2\Cadenas y vectores\Tarea de cadenas y vectores\obj\Debug\net7.0\ref\Ejercicio1.dll

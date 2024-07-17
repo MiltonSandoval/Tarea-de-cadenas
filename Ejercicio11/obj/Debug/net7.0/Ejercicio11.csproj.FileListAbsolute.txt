@@ -1,0 +1,14 @@
+C:\C#\Cadenas y vectores\Ejercicio11\bin\Debug\net7.0\Ejercicio11.exe
+C:\C#\Cadenas y vectores\Ejercicio11\bin\Debug\net7.0\Ejercicio11.deps.json
+C:\C#\Cadenas y vectores\Ejercicio11\bin\Debug\net7.0\Ejercicio11.runtimeconfig.json
+C:\C#\Cadenas y vectores\Ejercicio11\bin\Debug\net7.0\Ejercicio11.dll
+C:\C#\Cadenas y vectores\Ejercicio11\bin\Debug\net7.0\Ejercicio11.pdb
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\Ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\Ejercicio11.AssemblyInfoInputs.cache
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\Ejercicio11.AssemblyInfo.cs
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\Ejercicio11.dll
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\refint\Ejercicio11.dll
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\Ejercicio11.pdb
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\Ejercicio11.genruntimeconfig.cache
+C:\C#\Cadenas y vectores\Ejercicio11\obj\Debug\net7.0\ref\Ejercicio11.dll
